@@ -147,7 +147,7 @@ const Home = () => {
               <Heading as="h2" variant="page-title">
                 Yến Chu
               </Heading>
-              <p>Tôi là ( Streamer )</p>
+              <p>Helluuuuu, Mình là Yến Chu. Các bạn có thể theo dõi mình qua các kênh mạng xã hội bên dưới nhaaaa, có cả STK nữa đó heheee</p>
             </Box>
             <Box
               flexShrink={0}
