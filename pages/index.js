@@ -145,9 +145,9 @@ const Home = () => {
           <Box display={{ md: 'flex' }}>
             <Box flexGrow={1}>
               <Heading as="h2" variant="page-title">
-                Yến Chu
+                Xin Chàoooo
               </Heading>
-              <p>Helluuuuu, Mình là Yến Chu. Các bạn có thể theo dõi mình qua các kênh mạng xã hội bên dưới nhaaaa, có cả STK nữa đó heheee</p>
+              <p>Helluuuuu, Mình là Yến Chu. Thông tin donate và mạng xã hội bên dưới nhaaaa</p>
             </Box>
             <Box
               flexShrink={0}
