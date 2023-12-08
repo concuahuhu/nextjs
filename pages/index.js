@@ -147,7 +147,7 @@ const Home = () => {
               <Heading as="h2" variant="page-title">
                 Xin Chàoooo
               </Heading>
-              <p>Helluuuuu, Mình là Yến Chu. Thông tin donate và mạng xã hội bên dưới nhaaaa</p>
+              <p>Thông tin donate và mạng xã hội bên dưới nhaaaa</p>
             </Box>
             <Box
               flexShrink={0}
